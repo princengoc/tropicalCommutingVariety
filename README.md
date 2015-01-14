@@ -32,3 +32,5 @@ cat symtconestart3 symmetricInput3 | tmp
 gfan_tropicaltraverse --symmetry < tmp
 
 - 
+=======
+Computational outputs, supplement the paper Tropical Commuting Variety with Ralph Morrison
